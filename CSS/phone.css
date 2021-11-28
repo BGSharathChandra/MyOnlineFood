@@ -1,0 +1,13 @@
+.services{
+    flex-direction: column;
+}
+
+.h-1{
+    font-size: 40px;
+}
+.h-2{
+    font-size: 30px;
+}
+.s-p{
+    font-size: 15px;
+}
